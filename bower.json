@@ -1,0 +1,17 @@
+{
+  "name": "chat-rooms",
+  "description": "",
+  "main": "",
+  "authors": [
+    "nurayklc <nuriskl72@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatrooms",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/nurayklc/chatrooms",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
