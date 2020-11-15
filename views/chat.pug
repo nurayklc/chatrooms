@@ -5,14 +5,6 @@ append stylesheets
   link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/fontawesome.min.css")
 block content
   div(ng-controller="indexController")
-    .modal
-      .modal-inner
-        .modal-header
-          h2 Welcome, please login.
-        .modal-footer
-          a(href="/auth/google")
-            i.fa.fa-google-plus(aria-hidden="true")
-            | Login with Google+  
-
+    | chat
 append javascripts
   script(src="/javascripts/controller/indexController.js")
